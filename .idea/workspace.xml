@@ -4,17 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="226718fa-486c-4dc4-8da3-986f47cc8650" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/pp-23/main" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pp-23/new.py" beforeDir="false" afterPath="$PROJECT_DIR$/pp-23/new.py" afterDir="false" />
-    </list>
+    <list default="true" id="226718fa-486c-4dc4-8da3-986f47cc8650" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/pp-23" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -33,7 +30,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "database.data.extractors.current.export.id": "Comma-separated (CSV)_id",
     "database.data.extractors.current.id": "Comma-separated (CSV)_id",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/lukalondaridze/itStep/pythonProject10",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -120,7 +117,7 @@
       <workItem from="1729698807087" duration="18951000" />
       <workItem from="1729872249438" duration="7524000" />
       <workItem from="1730133112745" duration="1419000" />
-      <workItem from="1730304243540" duration="9772000" />
+      <workItem from="1730304243540" duration="10075000" />
     </task>
     <servers />
   </component>
